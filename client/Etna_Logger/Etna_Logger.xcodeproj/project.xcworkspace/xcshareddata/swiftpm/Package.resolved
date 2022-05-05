@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "f82c23a8a7ef8dc1a49a8bfc6a96883e79121864",
+          "version": "5.5.0"
+        }
+      },
+      {
+        "package": "CheckDevice",
+        "repositoryURL": "https://github.com/ugurethemaydin/CheckDevice",
+        "state": {
+          "branch": null,
+          "revision": "537377852502f7cc394e4d55ae65fc5da7708e6d",
+          "version": "1.0.5"
+        }
+      },
+      {
+        "package": "CodeScanner",
+        "repositoryURL": "https://github.com/twostraws/CodeScanner",
+        "state": {
+          "branch": "main",
+          "revision": "c27a66149b7483fe42e2ec6aad61d5c3fffe522d",
+          "version": null
+        }
+      },
+      {
+        "package": "SimpleToast",
+        "repositoryURL": "https://github.com/sanzaru/SimpleToast",
+        "state": {
+          "branch": "master",
+          "revision": "bec0bf715b8a8bf212759676a56e982712336757",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
+          "version": "5.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

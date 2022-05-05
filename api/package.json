@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "CheckIn application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Coste_c && Giraul_a && Hamia_r && Habert_j",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "form-data": "^4.0.0",
+    "mongoose": "^6.2.4",
+    "node-fetch": "^2.6.7",
+    "request": "^2.88.2"
+  }
+}
